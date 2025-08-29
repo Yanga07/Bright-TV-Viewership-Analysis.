@@ -1,4 +1,4 @@
-# Viewership-Analysis
+# Bright-TV-Viewership-Analysis
 
 ## Project overview
 This project aim to provide analysis and report to increase revenue and viewership base
