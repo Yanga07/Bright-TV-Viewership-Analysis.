@@ -23,9 +23,9 @@ Bright TV datasetn: The primary dataset for this analysis is "Bright TV -Dataset
 
 
 ### Tools
-- Excel - Data Cleaning - Creating a report
-- SQL snowflake - Data analysis
-- Canva for a presantation
+- Microsoft power bi - Creating a reports and deshboard
+- MYSQL - Data cleaning Data analysis
+
 
 ### Questions to be answered
 - Viewership across different provinces
